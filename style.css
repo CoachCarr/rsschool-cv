@@ -1,0 +1,31 @@
+body {
+  background-color: white;
+}
+
+h1 {
+  color: navy;
+}
+
+h2 {
+  color: black;
+}
+
+.centeredcontent {
+  max-width: 500px;
+  margin: auto;
+}
+
+footer {
+  max-width: 200px;
+  margin: auto;
+  padding-top: 100px;
+}
+
+#logodiv {
+  max-width: 200px;
+  padding: 40px;
+}
+
+#footertext {
+  text-align: center;
+}

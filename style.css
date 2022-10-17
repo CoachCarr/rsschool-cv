@@ -2,6 +2,10 @@ body {
   background-color: white;
 }
 
+img {
+  max-width: 150px;
+}
+
 h1 {
   color: navy;
 }
